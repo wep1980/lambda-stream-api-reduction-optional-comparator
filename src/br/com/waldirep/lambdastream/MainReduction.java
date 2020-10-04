@@ -29,6 +29,7 @@ public class MainReduction {
 		
 		System.out.println(multiply(array));
 		System.out.println(max(array));
+		System.out.println(maxIfTernario(array));
 
 
 		
@@ -82,79 +83,5 @@ public class MainReduction {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
